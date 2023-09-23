@@ -1,0 +1,12 @@
+:root{
+    --yellow :#ffc107;
+    --yellow2 :#ffc107f4;
+}
+
+body{
+    background: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
